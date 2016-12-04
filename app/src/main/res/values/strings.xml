@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YotaTestWidget</string>
+    <string name="img_desc">img_desc</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="input_rss_link_hint">Please, input your rss link for subscribe</string>
+</resources>
