@@ -26,7 +26,7 @@ import java.util.Random;
  */
 
 public class UpdateWidgetService extends Service {
-    private static final long DELAY = 5 * 1000L;
+    private static final long DELAY = 60 * 1000L;
 
     private Handler handler;
     private Runnable runnable;
