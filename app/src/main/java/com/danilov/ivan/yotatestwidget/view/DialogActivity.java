@@ -13,11 +13,6 @@ import com.danilov.ivan.yotatestwidget.R;
 import com.danilov.ivan.yotatestwidget.Utils;
 import com.danilov.ivan.yotatestwidget.widget.UpdateWidgetService;
 
-/**
- * Created by Ivan Danilov on 30.11.2016.
- * Email - i.danilov@globus-ltd.com
- */
-
 public class DialogActivity extends Activity {
 
     private EditText inputRssLink;

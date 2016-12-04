@@ -12,10 +12,6 @@ import com.danilov.ivan.yotatestwidget.R;
 import com.danilov.ivan.yotatestwidget.Utils;
 import com.danilov.ivan.yotatestwidget.view.DialogActivity;
 
-/**
- * Created by Ivan Danilov on 29.11.2016.
- * Email - i.danilov@globus-ltd.com
- */
 
 public class YotaWidgetProvider extends AppWidgetProvider {
 

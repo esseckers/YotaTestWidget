@@ -19,12 +19,6 @@ import com.danilov.ivan.yotatestwidget.network.event.IRemoteServiceCallback;
 
 import java.util.List;
 import java.util.Random;
-
-/**
- * Created by Ivan Danilov on 29.11.2016.
- * Email - i.danilov@globus-ltd.com
- */
-
 public class UpdateWidgetService extends Service {
     private static final long DELAY = 60 * 1000L;
 

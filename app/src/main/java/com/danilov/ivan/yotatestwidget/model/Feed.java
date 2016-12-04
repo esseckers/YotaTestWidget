@@ -3,10 +3,6 @@ package com.danilov.ivan.yotatestwidget.model;
 import org.simpleframework.xml.Element;
 import org.simpleframework.xml.Root;
 
-/**
- * Created by Ivan Danilov on 29.11.2016.
- * Email - i.danilov@globus-ltd.com
- */
 
 @Root(name = "item")
 public class Feed {

@@ -5,11 +5,6 @@ import org.simpleframework.xml.Root;
 
 import java.util.List;
 
-/**
- * Created by Ivan Danilov on 04.12.2016.
- * Email - i.danilov@globus-ltd.com
- */
-
 @Root(name = "channel", strict = false)
 public class Channel {
 
